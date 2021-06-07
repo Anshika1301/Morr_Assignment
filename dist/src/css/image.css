@@ -1,0 +1,13 @@
+.image{
+    display: inline-block;
+    padding: 3rem 1rem 1rem 3rem;
+    width: 13rem;
+    height: 13rem;
+}
+
+.img-set{
+    width: 100%;
+    height: auto;
+    position: relative;
+    cursor: pointer;
+}
